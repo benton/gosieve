@@ -1,0 +1,15 @@
+{
+  "deploy_env": {
+    "cmd_release": [ ],
+    "processes": {
+      "worker": "/gosieve"
+    },
+    "listening_ports": {
+    },
+    "max_ram": {
+      "worker" : 512
+    },
+    "admin_tasks": {
+    }
+  }
+}
