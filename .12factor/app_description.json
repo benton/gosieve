@@ -1,6 +1,6 @@
 {
   "deploy_env": {
-    "cmd_release": [ ],
+    "cmd_release": [ "echo OK" ],
     "processes": {
       "worker": "/gosieve"
     },
