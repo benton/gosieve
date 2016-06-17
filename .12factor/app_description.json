@@ -5,6 +5,7 @@
       "worker": "/gosieve"
     },
     "listening_ports": {
+      "worker": [80]
     },
     "max_ram": {
       "worker" : 512
