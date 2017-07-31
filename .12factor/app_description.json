@@ -8,7 +8,7 @@
       "worker": [80]
     },
     "max_ram": {
-      "worker" : 512
+      "worker" : 256
     },
     "admin_tasks": {
     }
